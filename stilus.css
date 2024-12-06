@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 246, 206);
+  }
+p {
+    font-size: 12pt;
+  }
+#scottishfold {
+    background-color: rgb(255, 176, 30);
+    color: white;
+    font-size: 18pt;
+  }
+#savannahmacska {
+    background-color: rgb(161, 159, 36);
+    color: white;
+    font-size: 18pt;
+  }
+#bengalimacska {
+    background-color: rgb(68, 62, 3);
+    color: white;
+    font-size: 18pt;
+  }
+.Bob {
+    color: rgb(156, 0, 0);
+}
